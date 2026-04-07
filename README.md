@@ -24,4 +24,4 @@ I'm a Systems Engineer and Technical Founder focused on offensive security, low-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📫 Let's Build
-*Actively exploring zdr, offensive security architectures, and any technical ideas the contribution and betterment of the world.*
+*Actively exploring zdr, offensive security architectures, and any technical ideas to the contribution and betterment of the world.*
